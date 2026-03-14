@@ -27,7 +27,7 @@ Subnet Mask: 255.255.255.0
 
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](Topology.png)
 
 ## Configuration Steps
 
