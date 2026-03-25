@@ -167,7 +167,6 @@ Network communication confirmed
 
 ## 8. Screenshots
 
-Server IP:
 
 ![Server ip](Linux/Linux DHCP Server Lab/screenshots/server ip.png)
 
