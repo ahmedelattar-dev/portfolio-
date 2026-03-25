@@ -167,7 +167,7 @@ Network communication confirmed
 
 ## 8. Screenshots
 
-Server IP (ip a)
+Server IP
 ![Server IP](screenshots/server ip.png)
 
 DHCP configuration file
