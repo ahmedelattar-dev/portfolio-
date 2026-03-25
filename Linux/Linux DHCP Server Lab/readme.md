@@ -169,8 +169,7 @@ Network communication confirmed
 
 Server IP:
 
-![Server IP](screenshots/server ip.png)
-
+![Server ip](Linux/Linux DHCP Server Lab/screenshots/server ip.png)
 
 DHCP configuration file:
 
