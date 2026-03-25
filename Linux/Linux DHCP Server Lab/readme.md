@@ -167,16 +167,21 @@ Network communication confirmed
 
 ## 8. Screenshots
 
-Server IP
+Server IP:
+
 ![Server IP](screenshots/server ip.png)
 
-DHCP configuration file
+
+DHCP configuration file:
+
 ![DHCP configuration file](screenshots/DHCP config.png)
 
-DHCP service status
+DHCP service status:
+
 ![DHCP service status](screenshots/DHCP status.png)
 
-Client IP and Ping test results
+Client IP and Ping test results:
+
 ![Client IP and Ping test results](screenshots/client ip and ping.png)
 
 ---
