@@ -166,20 +166,22 @@ Network communication confirmed
 ---
 
 ## 8. Screenshots
-.
-![Server ip](Linux/Linux DHCP Server Lab/screenshots/server ip.png)
+
+Server ip:
+
+![Server ip](screenshots/server-ip.png)
 
 DHCP configuration file:
 
-![DHCP configuration file](screenshots/DHCP config.png)
+![DHCP configuration file](screenshots/DHCP-config.png)
 
 DHCP service status:
 
-![DHCP service status](screenshots/DHCP status.png)
+![DHCP service status](screenshots/DHCP-status.png)
 
 Client IP and Ping test results:
 
-![Client IP and Ping test results](screenshots/client ip and ping.png)
+![Client IP and Ping test results](screenshots/client-ip-and-ping.png)
 
 ---
 
