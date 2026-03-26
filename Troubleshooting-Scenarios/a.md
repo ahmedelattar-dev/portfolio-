@@ -1,2 +1,2 @@
 
-![this is a test photo](DHCP config.png)
+![this is a test photo](DHCP-config.png)
