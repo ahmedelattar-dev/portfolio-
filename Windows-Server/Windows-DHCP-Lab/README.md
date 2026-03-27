@@ -126,18 +126,23 @@ ping 192.168.10.10
 ## 8. Screenshots
 
 Server Static IP Configuration:
+
 ![Server Static IP Configuration](screenshots/server-static-ip.png)
 
 DHCP Scope Configuration:
+
 ![DHCP Scope Configuration](screenshots/address-pool.png)
 
 Scope Options (Gateway + DNS):
+
 ![Scope Options (Gateway + DNS)](screenshots/dns-gateway.png)
 
 Client obtaining IP Address:
+
 ![Client obtaining IP Address](screenshots/client-obtain-ip.png)
 
 Ping test result:
+
 ![Ping test result](screenshots/ping-test-result.png)
 
 ---
