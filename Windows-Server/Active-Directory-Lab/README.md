@@ -98,13 +98,16 @@ After restart:
 
 ## 8. Screenshots
 
-Include:
+Server IP configuration:
 
-- Server IP configuration  
-- AD DS installation screen  
-- Domain promotion wizard  
-- Domain name setup (ahmed.local)  
-- Active Directory Users and Computers  
+![Server IP](screenshots/server-ip.png)
+
+AD DS installation screen: 
+
+![AD DS installation screen](screenshots/adding-ad.png)
+
+Active Directory Users and Computers:
+![Active Directory Users and Computers](screenshots/ad-users-computers.png)
 
 ---
 
