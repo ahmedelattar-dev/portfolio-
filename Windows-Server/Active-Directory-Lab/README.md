@@ -107,6 +107,7 @@ AD DS installation screen:
 ![AD DS installation screen](screenshots/adding-ad.png)
 
 Active Directory Users and Computers:
+
 ![Active Directory Users and Computers](screenshots/ad-users-computers.png)
 
 ---
