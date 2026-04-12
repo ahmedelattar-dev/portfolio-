@@ -147,7 +147,7 @@ Domain join screen (ahmed.local)
 
 Success message  
 
-![Success message ](screenshots/sucess-join.png)
+![Success message ](screenshots/success-join.png)
   
 Active Directory showing client  
 
