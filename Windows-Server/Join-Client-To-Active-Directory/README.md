@@ -137,11 +137,21 @@ On Domain Controller:
 
 Include:
 
-- Client IP configuration  
-- Domain join screen (ahmed.local)  
-- Success message  
-- Login screen (domain user)  
-- Active Directory showing client  
+Client IP configuration
+
+![Client IP configuration](screenshots/client-config.png)
+
+Domain join screen (ahmed.local)
+
+![Domain join screen](screenshots/domain-join-screen.png)
+
+Success message  
+
+![Success message ](screenshots/sucess-join.png)
+  
+Active Directory showing client  
+
+![Active Directory showing client](screenshots/ad-showing-client.png)
 
 ---
 
